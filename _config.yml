@@ -1,5 +1,5 @@
 # main text of home
-name: John Doe
+name: Jait Jacob
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://jaitjacob.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
